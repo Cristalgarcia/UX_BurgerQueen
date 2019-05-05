@@ -157,6 +157,7 @@ La aplicación fue testeada por tres personas para realizar las modificaciones p
 - Los botones se hicieron más grandes para reducir la saturación de la información. 
 - La información era mostrada hasta dar clic en el botón OK. Se optó en que todo momento ésta fuera visualizada. 
  
+ ![Bocetos](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Bocetos_BQ.PNG)
 
 ### Requerimientos
 
