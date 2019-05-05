@@ -127,7 +127,7 @@ Con el equipo de trabajo se utilizó material didáctico para mapear diversos es
 
 
 ## Converger
-Se realizó un boceto del [flujo de la información]() de la solución elegida. 
+Se realizó un boceto del [flujo de la información](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Flujo%20de%20contenido_BQ.jpg) de la solución elegida. 
 
 Con base en las propuestas se realizó el boceto para crear el prototipo de la fase siguiente. 
 ![Boceto](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Bocetos_BQ.PNG)
