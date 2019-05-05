@@ -31,7 +31,7 @@ Y un menú para el resto del dia:
 # Metodología 
 La metodología que se utilizó para desarrollar la aplicación fue Design Sprint ya que permite prototipar y validar ideas con usuarios finales de manera rápida. Este método consiste de cinco pasos: 
 
-![Metodología]()
+![Metodología](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Metodolog%C3%ADa_design%20sprint.PNG)
 
 
 ## Requerimientos del cliente
@@ -59,7 +59,7 @@ Para comprender cómo funciona el servicio de comida rápida se acudió a la suc
 
 Durante la visita la gerente de la sucursal mostró las instalaciones, el proceso de limpieza de la tienda, los estándares de calidad que debe de cumplir la cadena de alimentos, los productos utilizados y el proceso de producción de la cocina. Por último, indicó cómo es el proceso en la caja y el sistema que utilizan para tomar pedidos. La comanda presenta las siguientes características:
 
-![Pains y gains de McDonalds]()
+![Pains y gains de McDonalds](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Pains_gains_MCD.jpg)
 
 La cajera indicó que la comanda ideal sería:
 - Tener la posibilidad de visualizar los productos por categoría.
@@ -73,7 +73,7 @@ La cajera indicó que la comanda ideal sería:
 
 La sucursal Pan D´Monium ubicada en Orizaba, Roma Norte, CDMX, ofrece alimentos veganos. Como parte de sus proceso ha utilizado sistemas de comanda en tablet la cual presenta los siguientes gains y pains: 
 
-![Pains y gains Pan d´monium]()
+![Pains y gains Pan d´monium](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Pains_gains_PD.jpg)
 
 
 Se realizó una entrevista a la persona que toma las órdenes y utiliza la aplicación ([guía de entrevista](https://docs.google.com/document/d/1d9dWYZm5liHBv9hYJGxbOVlD6ejI3oSpHrCwE2RhouA/edit?usp=sharing)).
@@ -88,12 +88,12 @@ Al preguntarle cómo sería su aplicación ideal ella comentó que las caracter�
 ## Benchmarking
 En colaboración con otras compañeras interesadas en elaborar su interfaz para el proyecto de Burguer Queen se elaboraron dos benchmarks para la investigación. 
 
-1. El primero tuvo como objetivo conocer los sistemas de comandas que utilizan otros establecimientos de comida rápida (Hot dog Rodriguez, Pastes Kiko´s, Pan D´Monium, Loyverse, Domino´s Pizza, McDonald´s y Casino Yak). Para conocer la información completa consultar la siguiente [liga](). 
+1. El primero tuvo como objetivo conocer los sistemas de comandas que utilizan otros establecimientos de comida rápida (Hot dog Rodriguez, Pastes Kiko´s, Pan D´Monium, Loyverse, Domino´s Pizza, McDonald´s y Casino Yak). Para conocer la información completa consultar la siguiente [liga](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Benchmark_BQ.jpg). 
 
 2. El segundo analiza seis sistemas operativos (Izettle pro, NCR Aloha Quick Service, Business Plus Accounting, Adelo, Software Silverpos y Master Chef) para conocer sus características como el orden de los productos, mesa o cliente, visualización de la orden y diseño. Para conocer la información completa consultar la siguiente [liga](https://docs.google.com/spreadsheets/d/1zudCBhf3ApfQi0Ym1H0A-1gIIHcijtAL3z-1MhDGrtE/edit?usp=sharing). 
 
 ## Definir
-A través de la exploración de campo se realizó un [mapa de empatía]() para definir el perfil de nuestro usuario
+A través de la exploración de campo se realizó un [mapa de empatía](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Mapa%20de%20empat%C3%ADa_BQ.jpg) para definir el perfil de nuestro usuario
 
 #### Perfil de usuario
 Edad: 20-30 años 
@@ -144,7 +144,7 @@ Para diseñar el prototipo se utilizó la herramienta Figma.
 - Los productos  cuentan con iconos para distinguir de manera visual los alimentos, además de contar con una descripción para las personas de nuevo ingreso que están utilizando por primera vez la interfaz. 
 - Los productos están categorizados por colores para identificarlos de manera sencilla. 
 
-
+![Imagen prototipo](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Imagen%20prototipo_BQ.PNG)
 
 
 Para visualizar el prototipo de la aplicación consultar el siguiente [link](https://www.figma.com/proto/0CElJMixkqznK5BHrt4JWHmi/Untitled?node-id=25%3A0&scaling=scale-down). 
