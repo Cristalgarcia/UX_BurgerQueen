@@ -123,14 +123,14 @@ GAINS
 
 Con el equipo de trabajo se utilizó material didáctico para mapear diversos escenarios y posibles soluciones para el diseño de la interfaz. Para ello los botones podían moverse en diferentes direcciones para corroborar el flujo de navegación. 
 
+![Material](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Material%20didactico_BQ.PNG)
+
 
 ## Converger
-Se realizó un boceto del flujo de la información de la solución elegida. 
-
-
-
+Se realizó un boceto del [flujo de la información]() de la solución elegida. 
 
 Con base en las propuestas se realizó el boceto para crear el prototipo de la fase siguiente. 
+![Boceto](https://github.com/Cristalgarcia/UX_BurgerQueen/blob/master/assets/Bocetos_BQ.PNG)
 
 
 ## Prototipar 
